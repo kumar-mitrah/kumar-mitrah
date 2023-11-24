@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @kumar-mitrah
+- 👋 Hi, I’m @kumarG
 - 👀 Frontend Developer
 
